@@ -1,0 +1,11 @@
+
+{
+  "extends": [
+    "config:base"
+  ],
+  "separateMajorReleases": false,
+  "groupName": "all",
+  "docker": {
+    "enabled":  false
+  }
+}
